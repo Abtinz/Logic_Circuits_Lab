@@ -1,0 +1,4 @@
+verilog isim_temp "fullAdder.v"
+verilog isim_temp "fulladder4bit.v"
+verilog isim_temp "testbench2.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

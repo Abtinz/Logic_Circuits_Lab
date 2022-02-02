@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/ABTIN/Desktop/amirkabir un/term 3/logical circuts/LAB/HW7/AZ7.1/fullAdder.xst" -ofn "C:/Users/ABTIN/Desktop/amirkabir un/term 3/logical circuts/LAB/HW7/AZ7.1/fullAdder.syr" 
+xst -intstyle ise -ifn "C:/Users/ABTIN/Desktop/amirkabir un/term 3/logical circuts/LAB/HW7/AZ7.1/fullAdder.xst" -ofn "C:/Users/ABTIN/Desktop/amirkabir un/term 3/logical circuts/LAB/HW7/AZ7.1/fullAdder.syr" 
