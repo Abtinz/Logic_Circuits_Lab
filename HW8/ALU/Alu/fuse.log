@@ -1,0 +1,12 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/ABTIN/Desktop/amirkabir un/term 3/logical circuts/LAB/HW8/ALU/Alu/TESTBENCH1_isim_beh.exe -prj C:/Users/ABTIN/Desktop/amirkabir un/term 3/logical circuts/LAB/HW8/ALU/Alu/TESTBENCH1_beh.prj work.TESTBENCH1 work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/ABTIN/Desktop/amirkabir un/term 3/logical circuts/LAB/HW8/ALU/Alu/ALU2Bit.v" into library work
+Analyzing Verilog file "C:/Users/ABTIN/Desktop/amirkabir un/term 3/logical circuts/LAB/HW8/ALU/Alu/TESTBENCH1.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:604 - "C:/Users/ABTIN/Desktop/amirkabir un/term 3/logical circuts/LAB/HW8/ALU/Alu/ALU2Bit.v" Line 48: Module instantiation should have an instance name
+Completed static elaboration
+ERROR:Simulator:793 - Unable to elaborate instantiated module Mux
