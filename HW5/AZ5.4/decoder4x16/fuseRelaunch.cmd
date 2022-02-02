@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/ASUS.PIESC/Desktop/logicLab/5/decoder4x16/testbench_isim_beh.exe" -prj "C:/Users/ASUS.PIESC/Desktop/logicLab/5/decoder4x16/testbench_beh.prj" "work.testbench" "work.glbl" 

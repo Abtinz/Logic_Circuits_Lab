@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/ASUS.PIESC/Desktop/logicLab/5/decoder4x16/testbench_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="20" />
+   <wvobject fp_name="/testbench/o0" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">o0</obj_property>
+      <obj_property name="ObjectShortName">o0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/o1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">o1</obj_property>
+      <obj_property name="ObjectShortName">o1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/o2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">o2</obj_property>
+      <obj_property name="ObjectShortName">o2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/o3" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">o3</obj_property>
+      <obj_property name="ObjectShortName">o3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/o4" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">o4</obj_property>
+      <obj_property name="ObjectShortName">o4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/o5" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">o5</obj_property>
+      <obj_property name="ObjectShortName">o5</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/o6" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">o6</obj_property>
+      <obj_property name="ObjectShortName">o6</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/o7" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">o7</obj_property>
+      <obj_property name="ObjectShortName">o7</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/o8" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">o8</obj_property>
+      <obj_property name="ObjectShortName">o8</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/o9" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">o9</obj_property>
+      <obj_property name="ObjectShortName">o9</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/oA" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">oA</obj_property>
+      <obj_property name="ObjectShortName">oA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/oB" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">oB</obj_property>
+      <obj_property name="ObjectShortName">oB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/oC" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">oC</obj_property>
+      <obj_property name="ObjectShortName">oC</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/oD" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">oD</obj_property>
+      <obj_property name="ObjectShortName">oD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/oE" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">oE</obj_property>
+      <obj_property name="ObjectShortName">oE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/oF" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">oF</obj_property>
+      <obj_property name="ObjectShortName">oF</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/a" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">a</obj_property>
+      <obj_property name="ObjectShortName">a</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/b" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">b</obj_property>
+      <obj_property name="ObjectShortName">b</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/c" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">c</obj_property>
+      <obj_property name="ObjectShortName">c</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/d" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">d</obj_property>
+      <obj_property name="ObjectShortName">d</obj_property>
+   </wvobject>
+</wave_config>
