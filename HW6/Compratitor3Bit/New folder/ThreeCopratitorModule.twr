@@ -1,0 +1,64 @@
+--------------------------------------------------------------------------------
+Release 14.7 Trace  (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\trce.exe -intstyle ise -v 3 -s 3
+-n 3 -fastpaths -xml ThreeCopratitorModule.twx ThreeCopratitorModule.ncd -o
+ThreeCopratitorModule.twr ThreeCopratitorModule.pcf
+
+Design file:              ThreeCopratitorModule.ncd
+Physical constraint file: ThreeCopratitorModule.pcf
+Device,package,speed:     xc7a100t,csg324,C,-3 (PRODUCTION 1.10 2013-10-13)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Pad to Pad
+---------------+---------------+---------+
+Source Pad     |Destination Pad|  Delay  |
+---------------+---------------+---------+
+A0             |EQ             |    5.228|
+A0             |GRT            |    5.576|
+A1             |EQ             |    5.339|
+A1             |GRT            |    5.086|
+A2             |EQ             |    5.408|
+A2             |GRT            |    5.306|
+B0             |EQ             |    5.373|
+B0             |GRT            |    5.470|
+B1             |EQ             |    5.564|
+B1             |GRT            |    5.375|
+B2             |EQ             |    5.206|
+B2             |GRT            |    5.258|
+---------------+---------------+---------+
+
+
+Analysis completed Tue Nov 16 10:14:33 2021 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 693 MB
+
+
+
