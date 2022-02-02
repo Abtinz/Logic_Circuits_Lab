@@ -1,0 +1,9 @@
+xst -intstyle ise -ifn "C:/Users/ABTIN/Desktop/amirkabir un/term 3/logical circuts/LAB/HW5/AZ5.3/AZG/MULTIPLEXER_4X1.xst" -ofn "C:/Users/ABTIN/Desktop/amirkabir un/term 3/logical circuts/LAB/HW5/AZ5.3/AZG/MULTIPLEXER_4X1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "MULTIPLEXER_4X1.ngc" MULTIPLEXER_4X1.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o MULTIPLEXER_4X1_map.ncd MULTIPLEXER_4X1.ngd MULTIPLEXER_4X1.pcf 
+par -w -intstyle ise -ol high -mt off MULTIPLEXER_4X1_map.ncd MULTIPLEXER_4X1.ncd MULTIPLEXER_4X1.pcf 
+xst -intstyle ise -ifn "C:/Users/ABTIN/Desktop/amirkabir un/term 3/logical circuts/LAB/HW5/AZ5.3/AZG/MULTIPLEXER_4X1.xst" -ofn "C:/Users/ABTIN/Desktop/amirkabir un/term 3/logical circuts/LAB/HW5/AZ5.3/AZG/MULTIPLEXER_4X1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "MULTIPLEXER_4X1.ngc" MULTIPLEXER_4X1.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o MULTIPLEXER_4X1_map.ncd MULTIPLEXER_4X1.ngd MULTIPLEXER_4X1.pcf 
+par -w -intstyle ise -ol high -mt off MULTIPLEXER_4X1_map.ncd MULTIPLEXER_4X1.ncd MULTIPLEXER_4X1.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml MULTIPLEXER_4X1.twx MULTIPLEXER_4X1.ncd -o MULTIPLEXER_4X1.twr MULTIPLEXER_4X1.pcf 
