@@ -1,0 +1,28 @@
+Command line:
+   Priority_Encoder_4X2_tesh_bench_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51252
+
+Mon Nov 08 17:03:02 2021
+
+
+ Elaboration Time: 0.75 sec
+
+ Current Memory Usage: 384.352 Meg
+
+ Total Signals          : 21
+ Total Nets             : 19
+ Total Signal Drivers   : 11
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 13
+ Total Traceable Variables  : 22
+ Total Scalar Nets and Variables : 103
+
+ Total Simulation Time: 0.828125 sec
+
+ Current Memory Usage: 384.352 Meg
+
+Mon Nov 08 17:09:29 2021
+

@@ -1,0 +1,64 @@
+--------------------------------------------------------------------------------
+Release 14.7 Trace  (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\trce.exe -intstyle ise -v 3 -s 3
+-n 3 -fastpaths -xml Decoder_2X4.twx Decoder_2X4.ncd -o Decoder_2X4.twr
+Decoder_2X4.pcf
+
+Design file:              Decoder_2X4.ncd
+Physical constraint file: Decoder_2X4.pcf
+Device,package,speed:     xc7a100t,csg324,C,-3 (PRODUCTION 1.10 2013-10-13)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Pad to Pad
+---------------+---------------+---------+
+Source Pad     |Destination Pad|  Delay  |
+---------------+---------------+---------+
+A              |O0             |    5.273|
+A              |O1             |    5.140|
+A              |O2             |    5.644|
+A              |O3             |    5.582|
+B              |O0             |    5.571|
+B              |O1             |    5.446|
+B              |O2             |    5.367|
+B              |O3             |    5.289|
+EN             |O0             |    5.447|
+EN             |O1             |    5.308|
+EN             |O2             |    5.459|
+EN             |O3             |    5.390|
+---------------+---------------+---------+
+
+
+Analysis completed Mon Nov 08 14:29:19 2021 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 689 MB
+
+
+
